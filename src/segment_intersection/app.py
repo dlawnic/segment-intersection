@@ -170,7 +170,6 @@ class SegmentIntersectionApp(tk.Tk):
 
         hint = (
             "Sterowanie płótnem:\n"
-            "- przeciągnij punkty A/B/C/D\n"
             "- zoom: kółko myszy\n"
             "- przesuwanie: środkowy przycisk / przeciąganie\n"
         )
