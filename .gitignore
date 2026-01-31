@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# venv
+.venv/
+venv/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/.ropeproject
+
+# build artifacts
+dist/
+build/
+*.egg-info/
+
+# test artifacts
+.coverage
+htmlcov/
